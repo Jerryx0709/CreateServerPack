@@ -819,3 +819,8 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
+
+[[files]]
+file = "mods/skin-restorer.pw.toml"
+hash = "840bb114b8c686327e6d53856e189906e396f4b74d3fe02d2103c9190dd76a37"
+metafile = true
