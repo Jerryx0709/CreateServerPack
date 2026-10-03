@@ -1,6 +1,6 @@
 name = "More Culling Reforged"
 filename = "moreculling-0.24.6-all.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
