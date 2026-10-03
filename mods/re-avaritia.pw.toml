@@ -1,13 +1,13 @@
 name = "Re:Avaritia"
-filename = "Re-Avaritia-neoforge-1.21.1-1.4.2-release.jar"
+filename = "Re-Avaritia-forge-1.20.1-1.4.1-release.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QeB3NRC5/versions/uY1x1LTC/Re-Avaritia-neoforge-1.21.1-1.4.2-release.jar"
+url = "https://cdn.modrinth.com/data/QeB3NRC5/versions/ssUn2Txe/Re-Avaritia-forge-1.20.1-1.4.1-release.jar"
 hash-format = "sha512"
-hash = "cdea0ad05932415670d75066792a96808ea6c9eea1bf4033790669af3b022eb5426df0ff0df6eba72205624fd96a15e16a051711722ce7a9f626e091db10b0a4"
+hash = "1e75a8a93b1de4a5a574ee1d1f652e02060df25fbe7b0a3e0f9ffce7d94e9dd0a77265da450621484fc1888b1c49c02a8c35732ff15a20f3c4fa13a099879da9"
 
 [update]
 [update.modrinth]
 mod-id = "QeB3NRC5"
-version = "uY1x1LTC"
+version = "ssUn2Txe"

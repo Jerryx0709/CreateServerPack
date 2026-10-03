@@ -1,0 +1,13 @@
+name = "Traveler's Compass"
+filename = "travelerscompass-forge-1.20.1-4.0.01.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WJLLirmC/versions/5ouBXjgf/travelerscompass-forge-1.20.1-4.0.01.jar"
+hash-format = "sha512"
+hash = "54760f2b302605b1fdad5ba252cf28284032bdb7341e35ede2955df4eb538a82e3f485e0fe59d539c85d18c3ee79422997db616d209650642a4647953e2872be"
+
+[update]
+[update.modrinth]
+mod-id = "WJLLirmC"
+version = "5ouBXjgf"

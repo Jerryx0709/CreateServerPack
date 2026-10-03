@@ -1,13 +1,13 @@
 name = "Create: Liquid Fuel"
-filename = "createliquidfuel-3.0.0-1.21.1.jar"
+filename = "createliquidfuel-2.2.0-1.20.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/sH9tXU9f/versions/rLn2bDVE/createliquidfuel-3.0.0-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/sH9tXU9f/versions/zRiNFWm2/createliquidfuel-2.2.0-1.20.1.jar"
 hash-format = "sha512"
-hash = "3925e0f7e7b883d719c12c2cdd409fa954fbd53cbb63295764fdf06d57f63553b5dd99f94ae69b071a2aa17fb5bff53817e3394191d8933f7916220861e1bc76"
+hash = "02c434868d14538be8a7c8f5c7539944e96159035bc243b2d7f3d94300030aa1e9618988fc4b58ea0b99913c0b1e83acfa8c80430106bee917c429be004439d5"
 
 [update]
 [update.modrinth]
 mod-id = "sH9tXU9f"
-version = "rLn2bDVE"
+version = "zRiNFWm2"

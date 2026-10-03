@@ -1,0 +1,13 @@
+name = "More Culling Reforged"
+filename = "moreculling-0.24.6-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "13b68b153673f9351a8ab1cb2be05028a65a1a73"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8691508
+project-id = 1660981

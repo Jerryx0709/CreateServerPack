@@ -1,0 +1,13 @@
+name = "Nether Descent"
+filename = "Nether-Descent-Forge-1.0.9-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OMC5QQv5/versions/QtapHgzR/Nether-Descent-Forge-1.0.9-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "90fa1bde4cdb9cc22a3b077aad4943efefbe2cfca78118ec19a7ffb0faa346b7eb3c0766343608c91d881308a20a54d39e7e6534c94c8fe4cefb7b041af4f449"
+
+[update]
+[update.modrinth]
+mod-id = "OMC5QQv5"
+version = "QtapHgzR"

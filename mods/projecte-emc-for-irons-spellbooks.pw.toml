@@ -1,0 +1,13 @@
+name = "ProjectE: EMC for Iron's Spellbooks"
+filename = "irons_spellbooks_emc-0.1.0+forge-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/u2PyIpPY/versions/FyAJY4zH/irons_spellbooks_emc-0.1.0%2Bforge-1.20.1.jar"
+hash-format = "sha512"
+hash = "6c9cb40a31d4e399f05adc59cd0565b0426956226a5386ce8c04ac3accfbfe371a461d8958cde1cc6d35e25578117123e991fdefa52c9e05e0047dcd018dbb6f"
+
+[update]
+[update.modrinth]
+mod-id = "u2PyIpPY"
+version = "FyAJY4zH"

@@ -1,0 +1,13 @@
+name = "Tinkers' Integrations and Tweaks"
+filename = "TCIntegrations-1.20.1-2.0.25.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jNa5P8yc/versions/X3bGRXCj/TCIntegrations-1.20.1-2.0.25.19.jar"
+hash-format = "sha512"
+hash = "82b7786138fd7311ad9bd303d3ef065047cf3ede8f066f15a17fc0e27dbba290d8aa917bd9989ee51a00b57710727d8306c120ca979e42778867c720edac045b"
+
+[update]
+[update.modrinth]
+mod-id = "jNa5P8yc"
+version = "X3bGRXCj"

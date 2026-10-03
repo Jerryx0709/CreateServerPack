@@ -1,0 +1,13 @@
+name = "Ice And Fire x Create Integration"
+filename = "iceandfire_create-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HuZZUARA/versions/nGxKKx2x/iceandfire_create-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "3c99304619375ae7f466ba48ffe86811c3dd2c4b82d3fd6d7cf227b174cfe12c51333f01f0fd3ff6db3929440c69017942604754f6dcad17ecb8cece00e2cb11"
+
+[update]
+[update.modrinth]
+mod-id = "HuZZUARA"
+version = "nGxKKx2x"

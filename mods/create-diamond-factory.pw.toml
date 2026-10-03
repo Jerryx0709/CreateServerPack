@@ -1,13 +1,13 @@
 name = "Create: Diamond & Factory"
-filename = "create_diamond_factory-1.0.2-1.21.1-neoforge.jar"
+filename = "create_ diamond_ factory-1.20.1-1.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Xigl9886/versions/A4YOSo7j/create_diamond_factory-1.0.2-1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/Xigl9886/versions/3UPrGc9T/create_%20diamond_%20factory-1.20.1-1.0.4.jar"
 hash-format = "sha512"
-hash = "afc0a85b38b0fa612b99882ea01275626869d7fff1cbe98eeba12ab2722a8137a5ece932257ca2ed3c9f2d4bd901792fcdae8b3d869bfb9444e6805aad975220"
+hash = "b46899523160f2a2bd55fe3dfd0656112d9285070636fa48b3fc9f1273d10f1bdc17b3537747fecc4db025ec0deebd36d3e50404530097b856f7aa4be5be38ab"
 
 [update]
 [update.modrinth]
 mod-id = "Xigl9886"
-version = "A4YOSo7j"
+version = "3UPrGc9T"

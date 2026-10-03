@@ -1,13 +1,13 @@
 name = "Loot Journal: Pickup Notifier"
-filename = "loot_journal-neoforge-1.21.1-6.2.2.jar"
+filename = "loot_journal-forge-1.20.1-6.2.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/OJ6ZYz5L/versions/zyIMDDzM/loot_journal-neoforge-1.21.1-6.2.2.jar"
+url = "https://cdn.modrinth.com/data/OJ6ZYz5L/versions/DNQSB9mM/loot_journal-forge-1.20.1-6.2.2.jar"
 hash-format = "sha512"
-hash = "da6be07bebe1f2f38242568a49e13020c4cbead8e563d02d5106110ce3bc34525c2388ce47d36b477db8dcc7661afc38fa9eb243cc42c53737c531e0b5189c77"
+hash = "3c887a5ab86a963e8b819f3017e77084a7b0c8bc32f9e4c114c011b88056960874ba00be5ed02c75c0b303faef6ea449972d4dbe37d4a15ee3ead8dc67c37620"
 
 [update]
 [update.modrinth]
 mod-id = "OJ6ZYz5L"
-version = "zyIMDDzM"
+version = "DNQSB9mM"

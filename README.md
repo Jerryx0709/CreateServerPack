@@ -1,3 +1,3 @@
-# Create Server Pack 
+# Server Modpack
 
 Packwiz repo for my pack

@@ -1,4 +1,4 @@
-name = "CreateNeoForge"
+name = "CreateForge"
 author = "Jerryx77"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c8c21a7120a03d2db11a5e2ae565a825960eab43160043f5ab1125868975cbf1"
+hash = "b6dd3cc631d9fe3d792695c1e8c1a85c04eec5e18fe26cdf2a5fca15c8b127be"
 
 [versions]
-minecraft = "1.21.1"
-neoforge = "21.1.250"
+forge = "47.4.10"
+minecraft = "1.20.1"

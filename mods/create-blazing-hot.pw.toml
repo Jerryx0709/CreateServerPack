@@ -1,13 +1,13 @@
 name = "Create: Blazing Hot"
-filename = "create_blazing_hot-0.7.4+neoforge-mc1.21.1.jar"
+filename = "create_blazing_hot-0.7.1+forge-mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LmT6oZrX/versions/V9HyDSFg/create_blazing_hot-0.7.4%2Bneoforge-mc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/LmT6oZrX/versions/x1fgdEOw/create_blazing_hot-0.7.1%2Bforge-mc1.20.1.jar"
 hash-format = "sha512"
-hash = "901706725c77ac83952e50eabcc39b584ab61ef69f3a2e74b4d2fb78c529b0f4a60c9aa93c7f398e9d9b8750a002e760caf3ca38b3b2dfc7b8eadb01cc41d9f1"
+hash = "be8364276d44cdf42d2dee685e63d1434f15a795d43500c2d091d8264fe643ddb9bca6c72fb7a8b556d3c6b53a46315b51b9da128e0c8e07641dabe3f25005a5"
 
 [update]
 [update.modrinth]
 mod-id = "LmT6oZrX"
-version = "V9HyDSFg"
+version = "x1fgdEOw"

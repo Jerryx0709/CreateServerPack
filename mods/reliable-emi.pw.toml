@@ -1,0 +1,13 @@
+name = "Reliable EMI (REMI)"
+filename = "remi-forge-1.20.1-4.7.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/N9WucjHL/versions/oadZsgpm/remi-forge-1.20.1-4.7.3.jar"
+hash-format = "sha512"
+hash = "52caa9fb5709f76d2643989102c0eceeac85a98b309a84bacec45646af08395eecaa61ea1e569f010ec8c9a5ff2f70d1a9ddda8d48ca684e5a9c1dbeb33c277c"
+
+[update]
+[update.modrinth]
+mod-id = "N9WucjHL"
+version = "oadZsgpm"

@@ -1,13 +1,13 @@
 name = "Create: Copper & Zinc"
-filename = "create_copper_and_zinc-1.6.0-neoforge-1.21.1.jar"
+filename = "create_copper_and_zinc-2.0.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/aqYNR6rI/versions/BaKi8vm9/create_copper_and_zinc-1.6.0-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/aqYNR6rI/versions/8NwXN4bQ/create_copper_and_zinc-2.0.0-forge-1.20.1.jar"
 hash-format = "sha512"
-hash = "005b2a82de5c10f964d21fa6971eaf1a2e044c55433e1e9168f2c07dddc70e23d5c092e22900e0d74c05e03837f29d150acc95b365f8a9bd85ccc50940e71ed7"
+hash = "25f61563ce5011fbab9b9bb7244ba0518612c1e7a16af16cf2fd8ff41ab7daae08675536804a2aed9088d8a983a7d4653cb1bdc9d25b50d37e4b8c8b580260da"
 
 [update]
 [update.modrinth]
 mod-id = "aqYNR6rI"
-version = "BaKi8vm9"
+version = "8NwXN4bQ"
